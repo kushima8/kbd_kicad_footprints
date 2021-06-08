@@ -1,4 +1,4 @@
-(module kbd:EVQWGD001-3 (layer F.Cu) (tedit 60BB8E78)
+(module kbd:EVQWGD001 (layer F.Cu) (tedit 60BB8E78)
   (fp_text reference SW3 (at -2.6 -10.9) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
